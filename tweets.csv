@@ -1,0 +1,4 @@
+tweet,category
+"I love Python!",positive
+"C# is great for backend.",positive
+"This movie is terrible!",negative
